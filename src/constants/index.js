@@ -265,7 +265,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "datastructures",
         color: "pink-text-gradient",
       },
     ],
